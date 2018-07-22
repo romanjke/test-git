@@ -6,4 +6,4 @@ b1 text
   * info
   * !
 
-[Google] (http://google.ru)
+[Google](http://google.ru)
