@@ -5,3 +5,5 @@ b1 text
 * text
   * info
   * !
+
+![GitHub Logo] (/images/logo.png)
