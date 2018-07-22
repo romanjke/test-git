@@ -7,6 +7,6 @@
    1. Item 3a
    1. Item 3b
 
-```
+```php
 echo "Hello, World!"
 ```
