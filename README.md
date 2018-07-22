@@ -1,2 +1,10 @@
 # test-git
-master text
+b1 text
+
+* some
+* text
+  * info
+  * !
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
