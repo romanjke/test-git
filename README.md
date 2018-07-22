@@ -6,5 +6,4 @@ b1 text
   * info
   * !
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+[Google](http://google.ru)
