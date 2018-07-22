@@ -1,4 +1,7 @@
 # test-git
+
+**woohoo!**
+
 [Google](http://google.ru)
 
 1. Item 1
@@ -9,4 +12,16 @@
 
 ```php
 echo "Hello, World!"
+
+if ($foo) {
+$bar=true;
+}
+
 ```
+
+![Laptop](https://picsum.photos/200/300?image=0)
+[Yandex](http://yandex.ru)
+
+some quote
+> blah blah
+> asddf
