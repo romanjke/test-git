@@ -1,4 +1,0 @@
-* some
-* list
-* items
-* yet item
